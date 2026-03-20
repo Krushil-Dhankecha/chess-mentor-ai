@@ -1,2 +1,6 @@
 env
+.env
 structure.txt
+node_modules*
+.next*
+__pycache__*
